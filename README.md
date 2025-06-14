@@ -27,7 +27,7 @@ TrucoOOP/
 └── README.md
 ```
 
-### 💠 Main Components
+## 💠 Main Components
 
 - **`model/Card.java`**  
   Represents a playing card with attributes like suit and rank.
