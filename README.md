@@ -2,8 +2,6 @@
 
 A Java-based implementation of the traditional Brazilian card game **Truco**, emphasizing Object-Oriented Programming (OOP) principles.
 
----
-
 ## 🧩 Project Overview
 
 **Purpose:**  
@@ -12,8 +10,6 @@ Simulate the card game Truco using Java, applying OOP concepts such as encapsula
 **Technologies Used:**
 - **Language:** Java
 - **Paradigm:** Object-Oriented Programming (OOP)
-
----
 
 ## 🗂️ Project Structure
 
@@ -70,8 +66,6 @@ TrucoOOP/
 - **Rule Enforcement:**  
   Ensures that all game rules are followed, including valid card plays and responses to "Truco" calls.
 
----
-
 ## 🧪 How to Run the Project
 
 1. **Clone the Repository:**
@@ -94,8 +88,6 @@ TrucoOOP/
    java -cp src Main
    ```
 
----
-
 ## 📌 Technical Notes
 
 - The project is structured using OOP principles, with separate classes for different game components, promoting modularity and reusability.
@@ -103,8 +95,6 @@ TrucoOOP/
 - The game interacts with the user via the console, prompting for inputs and displaying game states.
 
 - The codebase is designed to be extensible, allowing for future enhancements such as GUI integration or networked multiplayer support.
-
----
 
 ## 📎 License
 
