@@ -1,17 +1,11 @@
-# 🃏 Truc Game in Java
+# Truc Game in Java
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![JAVA](https://img.shields.io/badge/Built_with-Java-orange)
 
 A Java-based implementation of the traditional Brazilian card game **Truco**, emphasizing Object-Oriented Programming (OOP) principles.
 
-## 🧩 Project Overview
-
-**Purpose:**  
-Simulate the card game Truco using Java, applying OOP concepts such as encapsulation, inheritance, and polymorphism to structure the game's components and logic.
-
-**Technologies Used:**
-- **Language:** Java
-- **Paradigm:** Object-Oriented Programming (OOP)
-
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 TrucoOOP/
@@ -27,7 +21,7 @@ TrucoOOP/
 └── README.md
 ```
 
-## 💠 Main Components
+## Main Components
 
 - **`model/Card.java`**  
   Represents a playing card with attributes like suit and rank.
@@ -49,7 +43,7 @@ TrucoOOP/
 
 ---
 
-## 🎮 Gameplay Features
+## Gameplay Features
 
 - **Card Dealing:**  
   Randomly shuffles and deals cards to players at the start of each round.
@@ -66,7 +60,7 @@ TrucoOOP/
 - **Rule Enforcement:**  
   Ensures that all game rules are followed, including valid card plays and responses to "Truco" calls.
 
-## 🧪 How to Run the Project
+## How to Run the Project
 
 1. **Clone the Repository:**
    ```bash
@@ -88,7 +82,7 @@ TrucoOOP/
    java -cp src Main
    ```
 
-## 📌 Technical Notes
+## Technical Notes
 
 - The project is structured using OOP principles, with separate classes for different game components, promoting modularity and reusability.
 
@@ -96,6 +90,6 @@ TrucoOOP/
 
 - The codebase is designed to be extensible, allowing for future enhancements such as GUI integration or networked multiplayer support.
 
-## 📎 License
+## License
 
 This project is licensed under the MIT License.
