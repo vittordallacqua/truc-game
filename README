@@ -16,8 +16,8 @@ followed, including valid card plays and responses to "Truco" calls.
 
 How to run:
 
-  > git clone https://github.com/vittordallacqua/SoftwareDevelpment-OOP.git
-  > cd SoftwareDevelpment-OOP/Projects/TrucoOOP
+  > git clone https://github.com/vittordallacqua/truc-game.git
+  > cd truc-game
   > javac src/**/*.java
   > java -cp src Main
 
