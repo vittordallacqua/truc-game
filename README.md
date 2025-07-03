@@ -1,5 +1,4 @@
-Truc Game in Java
-=================
+### Truc Game in Java
 
 The project is structured using OOP principles, with separate 
 classes for different game components, promoting modularity and 
@@ -18,11 +17,13 @@ all game rules are followed, including valid card plays and
 responses to "Truco" calls.
 
 How to run:
-
+  
+  ```
   > git clone https://github.com/vittordallacqua/truc-game.git
   > cd truc-game
   > javac src/**/*.java
   > java -cp src Main
+  ```
 
 Using VS Code:
 
